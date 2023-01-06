@@ -1,0 +1,65 @@
+/* Global styles
+================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button-default {
+  background-color: #f15b22;
+  border: 0;
+  padding: 0.5rem 1rem;
+  width: 8rem;
+  margin: 0.5rem;
+  border-radius: 0.3rem;
+  color: #fff;
+}
+
+/* Header styles
+================ */
+header {
+  background-image: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 730px;
+}
+
+.header-text-wrapper {
+  padding: 5rem 14.3rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.header-title-text {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #fff;
+  width: 40%;
+  float: right;
+  text-align: end;
+  margin: 2rem 0rem;
+}
+.header-description-text {
+  font-size: 1rem;
+  color: #fff;
+  float: right;
+  clear: both;
+  width: 31%;
+  text-align: end;
+}
+
+/* Failures of the previous year styles
+======================================= */
+.my-previous-failures {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  margin: 5rem 10rem;
+}
+ul > li {
+  margin-left: 2rem;
+}
