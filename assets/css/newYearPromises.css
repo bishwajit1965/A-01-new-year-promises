@@ -94,6 +94,7 @@ header {
 }
 .description {
   margin: 1rem 0rem;
+  text-align: justify;
 }
 ul > li {
   margin: 1rem 0rem;
@@ -124,6 +125,9 @@ ul > li {
 .details-title {
   font-size: 1.6rem;
   margin: 1rem 0rem;
+}
+.plan-description {
+  text-align: justify;
 }
 .plans-image {
   width: 5.5em;
@@ -156,6 +160,32 @@ ul > li {
   font-size: 2.5rem;
   width: 40%;
   color: #fff;
+}
+
+/* Dream gallery styles
+======================= */
+.dream-gallery {
+  margin: 5rem 10rem;
+}
+.dream-box-header {
+  text-align: center;
+  margin: 2rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.dream-boxes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.dream-images {
+  width: 11.5rem;
+  height: 11.5rem;
+  border-radius: 0.5rem;
+  float: left;
+  box-shadow: 1px 2px 3px 1px #ddd;
 }
 
 /* Footer styles
