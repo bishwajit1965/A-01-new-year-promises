@@ -194,11 +194,11 @@ ul > li {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1.5rem;
 }
 .dream-images {
-  width: 10.9rem;
-  height: 10.9rem;
+  width: 10.5rem;
+  height: 10.5rem;
   border-radius: 0.5rem;
   float: left;
   box-shadow: 1px 2px 3px 1px #ddd;
