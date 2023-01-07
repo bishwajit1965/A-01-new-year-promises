@@ -240,3 +240,7 @@ input[type="text"] {
   color: #ddd;
   font-size: 1rem;
 }
+.copyright-text {
+  color: #999;
+  margin: 5rem 0rem;
+}
