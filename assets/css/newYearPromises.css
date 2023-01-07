@@ -197,8 +197,8 @@ ul > li {
   gap: 1.5rem;
 }
 .dream-images {
-  width: 10.5rem;
-  height: 10.5rem;
+  width: 10rem;
+  height: 10rem;
   border-radius: 0.5rem;
   float: left;
   box-shadow: 1px 2px 3px 1px #ddd;
