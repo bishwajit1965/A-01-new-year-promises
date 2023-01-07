@@ -8,13 +8,13 @@
 }
 
 .button-default {
-  background-color: #fff;
+  background-color: #005fac;
   border: 0;
   padding: 0.5rem 1rem;
   width: 6.5rem;
   margin: 1rem 0rem;
   border-radius: 0.3rem;
-  color: #cc3d0a;
+  color: #fff;
   font-weight: 900;
 }
 .button-default:hover {
@@ -140,8 +140,8 @@ ul > li {
   margin: 5rem 10rem;
   background-image: linear-gradient(
       to left,
-      rgba(245, 246, 252, 0.52),
-      rgba(156, 28, 28, 0.73)
+      rgba(202, 204, 216, 0.52),
+      rgba(84, 56, 238, 0.73)
     ),
     url("../images/watch.png");
 
